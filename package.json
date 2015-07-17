@@ -1,7 +1,7 @@
 {
   "name": "really-load-json",
   "version": "1.0.0",
-  "description": "Nifty little module for loading JSON files",
+  "description": "Load and parse a JSON file, either sync or async",
   "main": "index.js",
   "scripts": {
     "test": "nodeunit tests.js"
