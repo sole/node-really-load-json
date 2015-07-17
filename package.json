@@ -1,0 +1,21 @@
+{
+  "name": "really-load-json",
+  "version": "1.0.0",
+  "description": "Nifty little module for loading JSON files",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sole/node-really-load-json/"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "sole",
+  "license": "Apache 2",
+  "dependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
